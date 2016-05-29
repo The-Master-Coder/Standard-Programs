@@ -1,0 +1,9 @@
+Kruskal         O(ElogE) or O(ElogV)
+
+Dijkstra 	O(ElogV) [Binary Heaps are used]
+		O(E + VlogV) [Fibonacci Heaps are used]
+
+Floyd Warshall	O(V^3)
+
+Rabin Karp 	Best		Average  	Worst
+		O(n + m) 	O(n + m)	 O(nm)
